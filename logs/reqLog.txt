@@ -1,0 +1,884 @@
+20220502	14:44:03 	 ce4f66f1-e3ad-4a11-914c-768b85148b23 	 GET 	 undefined 	 /
+ 
+20220502	14:44:18 	 c9da6eb0-b5c8-4c08-ba99-1b2f08b6fa61 	 GET 	 undefined 	 /new-page
+ 
+20220504	13:50:41 	 4f8f78ed-de64-417e-995f-f272a82d7c24 	 GET 	 undefined 	 /
+ 
+20220504	13:50:53 	 785d4457-ae1b-4890-990c-ccecd65f9952 	 GET 	 undefined 	 /employee
+ 
+20220504	14:17:38 	 b055bcc3-3b4c-47ce-b232-5935265dbb6a 	 GET 	 undefined 	 /employees
+ 
+20220504	14:19:22 	 b92d2db7-afd5-4b17-a1c4-9ae2bd8a3331 	 POST 	 undefined 	 /employees
+ 
+20220504	14:55:47 	 ac26ded3-5f5f-4cb7-b7d1-d474f93ddcb0 	 POST 	 undefined 	 /
+ 
+20220504	14:55:55 	 6d6b7c40-bc6e-48c8-9e52-48cddba079e6 	 GET 	 undefined 	 /
+ 
+20220504	14:56:09 	 8c80daf8-06f1-4a71-b428-5234fc747bfc 	 GET 	 undefined 	 /states
+ 
+20220504	15:18:42 	 d7679fac-747a-48a5-97c1-891169decd34 	 GET 	 undefined 	 /
+ 
+20220504	15:18:50 	 0520509f-326d-4c98-8b3d-403571108b68 	 GET 	 undefined 	 /states
+ 
+20220504	15:18:59 	 f874df87-1a75-4128-9e1d-95b56b3f9985 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220504	15:19:14 	 0c98d11c-4f58-482d-b234-c70cfa1e106f 	 GET 	 undefined 	 /states/
+ 
+20220504	15:22:23 	 61165277-be9a-421e-8898-4d2fc5558002 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220504	15:31:00 	 3d875507-403d-4ff9-924e-9b63feb9e89d 	 GET 	 undefined 	 /states/:AL
+ 
+20220504	15:32:05 	 e35d7592-8712-4d85-a7ce-1e0677876b45 	 GET 	 undefined 	 /states/:AL
+ 
+20220504	15:32:30 	 f134f3d8-f919-43a1-b789-8be13f0f84fc 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220504	16:41:46 	 72b42198-6bd2-4971-b80e-41f9a66c461d 	 GET 	 undefined 	 /states/:HI
+ 
+20220504	16:42:04 	 cb60ef61-2b06-443f-a36e-faaf0ae84264 	 GET 	 undefined 	 /states/:Hawaii
+ 
+20220504	16:43:21 	 b25860de-d709-40ad-9a76-60099c7decb3 	 GET 	 undefined 	 /states
+ 
+20220504	16:43:25 	 d8a2c60a-5813-42e5-a157-8241d84f6310 	 GET 	 undefined 	 /states/HI
+ 
+20220504	16:43:44 	 e2f38345-8c56-4a05-a495-0b11f6a70e4a 	 GET 	 undefined 	 /states/
+ 
+20220504	16:43:50 	 9f9a8aed-e1a3-4141-a837-0a42a66ffc86 	 GET 	 undefined 	 /states/%22AL%22
+ 
+20220504	16:43:57 	 09225f01-ebbf-4638-a2a5-56b2c89c0a1d 	 GET 	 undefined 	 /states/
+ 
+20220504	16:44:09 	 f750cc08-69a7-4cb6-8a22-832ae6a8dafb 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	16:44:58 	 f433be8c-c86e-415d-8b4e-a73fa5ce28f5 	 GET 	 undefined 	 /states/AL
+ 
+20220504	16:46:51 	 3f2b96f9-68b3-45f2-b0e0-3aada9a20cdd 	 GET 	 undefined 	 /states/AL
+ 
+20220504	16:46:52 	 a50b079e-64b7-4c2e-84c4-d0968e2a50d7 	 GET 	 undefined 	 /states/AL
+ 
+20220504	16:46:54 	 5cf55ffc-4346-4014-938d-65370470e132 	 GET 	 undefined 	 /states
+ 
+20220504	16:49:29 	 a1f9ad73-7dd1-43c0-b07b-18f4750ac9ec 	 GET 	 undefined 	 /states/AL
+ 
+20220504	17:24:59 	 566c6c86-2e9c-4223-8496-8be2f7ab764d 	 GET 	 undefined 	 /states
+ 
+20220504	17:25:05 	 b9b7d32b-90ce-4b4f-84a8-c46e1804ea3f 	 GET 	 undefined 	 /states/AL
+ 
+20220504	17:25:25 	 64392521-0eb5-4825-8a79-01667c87cddb 	 GET 	 undefined 	 /states/AL
+ 
+20220504	17:26:22 	 58750fc0-f35f-4d7c-8d5d-463a983183f2 	 GET 	 undefined 	 /states/AL
+ 
+20220504	17:26:25 	 49c4fbbc-5019-4feb-8c1d-4f638e51a500 	 GET 	 undefined 	 /states/
+ 
+20220504	17:26:29 	 aa5edc39-4a7d-4552-96bd-4d30272690ab 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:27:46 	 a1ad3b36-9df2-4e14-85d0-98f20f52f6ee 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:27:47 	 ac837f61-5768-474d-ad79-6dff6c93b1bb 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:27:47 	 8a1208c5-0b22-4c7e-92a2-d2a9522d2cd0 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:27:48 	 4781c42e-91f3-4040-b91c-7324ff3e15db 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:27:48 	 43e5dfa0-d997-4848-9f2b-7ead0d8cbaa2 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:27:48 	 505e29d3-9a9a-4fe3-a979-135738e69758 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:27:48 	 eb72f236-0642-44ac-8386-5d20ff9c0286 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:27:48 	 98865d12-e23f-4fc6-b480-4340231da386 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:28:04 	 764235fa-6153-4f9a-94d0-75beed5b7981 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:28:05 	 197d1a48-469a-45ec-9484-3efd8f5fc4f1 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:28:25 	 5028d72a-14ea-4422-9555-43ef5677a126 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:28:26 	 7092a4be-a6f5-4a6b-8839-f55de83167b4 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:28:38 	 244bd610-ea30-4170-8b0b-af4ef454e853 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:28:39 	 98f1b7dc-e67a-48c4-861d-0deb13f24f53 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:29:03 	 6bd8577d-0f34-497e-9ecb-351f5e75a827 	 GET 	 undefined 	 /states/AK
+ 
+20220504	17:29:23 	 859f209e-e0d9-4c93-a202-d40a6d453829 	 GET 	 undefined 	 /states/AK
+ 
+20220504	18:02:18 	 d954f4e8-2b1f-45ab-9e1a-94a39ae403b6 	 GET 	 undefined 	 /
+ 
+20220504	18:02:23 	 e4c1e0bf-6f13-46ad-a0df-6fe24176cfb2 	 GET 	 undefined 	 /states
+ 
+20220504	18:07:48 	 ee30b22a-18d8-4a2f-b4ad-6dd0f7f03374 	 GET 	 undefined 	 /states
+ 
+20220504	18:07:57 	 de4d542b-0b8a-4ead-91d1-9ca71c7bc04c 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:08:14 	 83e4ef09-dbd7-4ee9-a4b0-55314e388e02 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:08:16 	 462a019d-5e74-431c-9b31-6fad23935e29 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:08:54 	 df7ea415-2ff4-445c-8687-c983fafa95bf 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:08:59 	 673a7379-edbd-4853-b45e-12bf216d722e 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:09:17 	 42905fe7-6c1d-4501-ab9b-4c6ff53087a3 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:09:18 	 646818c3-7d8c-42aa-86a7-b95883e3a9dc 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:09:34 	 70519d28-83de-4588-838e-479ed75b7ead 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:09:35 	 f044be77-4ed6-412a-b346-56ef0f0af6e0 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:10:04 	 cd274c0d-d59a-4746-90d8-8a7324a73b93 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:10:05 	 d97e9093-c5d9-4937-b6b8-3395b5fc84f9 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:11:22 	 ee602bd6-684c-4d48-ab07-e605a2f1d401 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:11:23 	 ff527052-4822-446e-91ec-cb9f6b7c2434 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:11:23 	 65205467-8105-4dc0-9eb6-b192d9fcca7b 	 GET 	 undefined 	 /states/Alabama
+ 
+20220504	18:16:36 	 55b1dc6e-f06b-48c0-bae5-ba22a71898b3 	 GET 	 undefined 	 /states/
+ 
+20220504	18:17:06 	 ff24c836-1eed-454d-b45c-e0b4eaaf3801 	 GET 	 undefined 	 /states/
+ 
+20220504	18:17:09 	 75509f37-d35c-4fef-b123-1e31c7e74b2c 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:27 	 6d8e66ca-49b8-45a2-9720-244c610e6dfe 	 GET 	 undefined 	 /states/:AL
+ 
+20220504	18:17:30 	 57114e3a-5eda-486a-a57a-8d6a23075553 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:47 	 980ce92e-0c6d-4b5d-a03a-65fb19e39933 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:48 	 fff38c2a-22e3-4846-a581-5c7021a929df 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:48 	 130aa0c4-80f6-4f7c-9b3e-71722bdca45c 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:49 	 35f696cf-577e-4d46-8e1e-516ed0059138 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:49 	 14a8527c-1673-4621-9abd-f9d844640139 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:49 	 baa2a178-8de1-4b09-9841-c4125aa3e97f 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:49 	 8ac92bec-6ed1-4e3d-94ab-9d33dc297227 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:49 	 91fb3ee4-3f80-442a-96b7-ea1051643af1 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:17:49 	 6028afe3-b704-4693-9b9e-5a89071a3b38 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:21:47 	 c67afad1-9b11-41db-ad20-15abb333e4c1 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:21:49 	 3e5fcb3f-dc07-4179-9ce8-1c7b676d4d68 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:21:53 	 06a576ed-c087-4b13-909b-a4100b2ea071 	 GET 	 undefined 	 /states/
+ 
+20220504	18:22:47 	 9240aefd-bc5c-4feb-8d47-1ba2f2abb298 	 GET 	 undefined 	 /states/
+ 
+20220504	18:22:51 	 ac4017b0-74c1-40ad-b283-6fcd3d35bf80 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:38:18 	 16e67bd6-8e2d-4339-b9fc-3b07e8764cc6 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:38:51 	 b7159927-893e-45b8-a641-4be327478d4f 	 GET 	 undefined 	 /states/AL
+ 
+20220504	18:42:26 	 bcc03ec5-ce5d-4999-b1b0-7ddce301982c 	 GET 	 undefined 	 /subdir
+ 
+20220504	18:42:26 	 a0ddfe74-6080-4bc7-8dbf-937b82b808f0 	 GET 	 undefined 	 /subdir/
+ 
+20220504	18:42:48 	 f4bdd68d-fcf0-4770-a981-c1e18a75ea93 	 GET 	 undefined 	 /states
+ 
+20220504	18:42:59 	 73257891-5180-42f0-becf-10630028380e 	 GET 	 undefined 	 /states
+ 
+20220504	18:43:15 	 9fe21166-6560-4afa-a773-aa87ada5a065 	 GET 	 undefined 	 /favicon.ico
+ 
+20220504	18:43:44 	 d6633d67-324d-4294-830e-e8510517f125 	 GET 	 undefined 	 /states/AL
+ 
+20220505	13:36:07 	 56219e71-bde3-4052-abab-dea68f5049ba 	 GET 	 undefined 	 /
+ 
+20220505	13:36:15 	 b0ea7516-611c-4802-869e-5c4e06a6e0ae 	 GET 	 undefined 	 /states
+ 
+20220505	13:36:19 	 3668a926-c77a-4008-b4d7-59af654ba1a3 	 GET 	 undefined 	 /states/al
+ 
+20220505	13:36:24 	 491fbb41-1f22-4e44-83dc-bae852bc4608 	 GET 	 undefined 	 /states/AL
+ 
+20220505	13:53:25 	 3fe7d938-1882-49dd-9ae0-b273b816c3d3 	 GET 	 undefined 	 /STATES
+ 
+20220505	13:53:35 	 d9295c12-5b01-45bb-934c-c03c46c57f05 	 GET 	 undefined 	 /STATES/:AL
+ 
+20220505	13:53:38 	 a95f2aff-0be5-44ca-af61-b995d2e2bcfb 	 GET 	 undefined 	 /STATES/AL
+ 
+20220505	13:57:52 	 2985651f-cb94-4901-8aa8-a9b0a33e1fbf 	 GET 	 undefined 	 /STATES/AL
+ 
+20220505	13:57:53 	 04ff2a97-a47f-4af2-b552-d89811d61eb3 	 GET 	 undefined 	 /STATES/AL
+ 
+20220505	14:10:36 	 1af9619a-4426-4ae8-82e8-e44e7197d70d 	 GET 	 undefined 	 /STATES/1
+ 
+20220505	14:14:32 	 71f090bc-b9df-4c8f-9ce7-1164ee2530a0 	 GET 	 undefined 	 /1
+ 
+20220505	14:14:38 	 897114b2-ca3e-44ec-9f85-2fae56077e34 	 GET 	 undefined 	 /states/1
+ 
+20220505	14:21:10 	 e48b8b56-269a-430a-938e-01933ac52b17 	 GET 	 undefined 	 /states/1
+ 
+20220505	14:21:24 	 53ede29f-eb31-4108-b402-dca0c2861699 	 GET 	 undefined 	 /states/2
+ 
+20220505	14:22:45 	 e5b98d5b-0aee-4736-8ff8-7e3de012da0f 	 GET 	 undefined 	 /states/
+ 
+20220505	14:22:49 	 a52fb61d-6d5b-42dd-8c3c-9e25f89c2a35 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:23:53 	 b822680c-2a3a-4a9b-be77-c80e84696298 	 GET 	 undefined 	 /states/
+ 
+20220505	14:23:57 	 d3807c59-d2a7-431c-a11a-2456f666e78a 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:25:35 	 48325156-101a-4b7b-85ea-ff98ec5cc6b4 	 GET 	 undefined 	 /states
+ 
+20220505	14:25:39 	 a209ef37-31a6-48f5-b281-200275cf3f15 	 GET 	 undefined 	 /states/Al
+ 
+20220505	14:25:42 	 86f335c5-3c25-4bd6-a889-70fd0bff66c4 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:27:48 	 21ccb5fc-9c8e-46ec-b09b-53b3c8137d9b 	 GET 	 undefined 	 /states
+ 
+20220505	14:27:51 	 944d026a-e7a4-40cb-88e2-826c44e676a3 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:28:10 	 4ef5290e-b427-42c8-8f5f-06c9ed369c44 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:28:11 	 d3364242-319d-4894-9742-fc9f1544fe53 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:31:50 	 5c11259d-6be5-4a91-a654-4e17b6eb5614 	 GET 	 undefined 	 /states
+ 
+20220505	14:31:53 	 a7d403d0-8da4-4be8-802c-a9a5dee63e5d 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:36:18 	 dd537c59-a421-4303-8d34-3f53950a0847 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:01 	 0cf2dd2d-dbe8-45b6-9512-b0502a1f6cb2 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:01 	 854579ed-7488-495d-b020-3275a1999dff 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:04 	 f372c02a-c904-4661-9a20-985104c6e95c 	 GET 	 undefined 	 /states/
+ 
+20220505	14:39:08 	 91beb66b-55d9-48ed-916e-a7f878d7f7f8 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:34 	 32786375-5753-4fbd-9380-68a62de4d811 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:35 	 f1454e04-94f2-4e5f-a1ec-d3515c6daa2f 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:35 	 9660bb61-1e64-476e-84b2-0cfb98e486b6 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:35 	 46ce47dc-b59c-4517-bc05-0df1fdd23d2c 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:36 	 33058c71-b2d2-423c-a67e-e39252414039 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:39:36 	 1d740907-8244-4862-a02e-d0127de41e72 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:49:36 	 612d0106-40e3-44b4-83b2-eeb48c92323a 	 GET 	 undefined 	 /states/1
+ 
+20220505	14:49:37 	 e9a33a38-e1a0-46da-bf11-9294ecf7fb87 	 GET 	 undefined 	 /states/1
+ 
+20220505	14:49:42 	 53ac5042-e22b-40e0-87a0-b73b108f5d92 	 GET 	 undefined 	 /states
+ 
+20220505	14:49:46 	 cb78542d-8b27-45d6-a050-37f2bb97a350 	 GET 	 undefined 	 /states/1
+ 
+20220505	14:50:03 	 d5ce0a31-f6a5-4a53-adc0-4fd811b40e0f 	 GET 	 undefined 	 /states/1
+ 
+20220505	14:50:53 	 b9141f11-d6b8-4b3e-ac8f-68d00e189924 	 GET 	 undefined 	 /states
+ 
+20220505	14:50:57 	 48ae695c-a63e-40d6-aec3-00719d8caaab 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:51:38 	 c930c8c0-d7d7-4c19-bf59-9a05f3406478 	 GET 	 undefined 	 /states/
+ 
+20220505	14:51:44 	 4f0d244f-8216-4537-a01d-4f7a37c17411 	 GET 	 undefined 	 /states/AZ
+ 
+20220505	14:52:43 	 a2ba6995-254a-42d3-916f-ebd5fb95c214 	 GET 	 undefined 	 /states/AL
+ 
+20220505	14:52:46 	 2e5ada0d-e464-44b5-8d85-caf308440952 	 GET 	 undefined 	 /states/HI
+ 
+20220505	16:00:17 	 9709bc73-ff69-47a4-bcfe-2442df96ff9c 	 GET 	 undefined 	 /states/NY
+ 
+20220505	16:05:27 	 8613b314-5905-498a-9ec0-205784d2066a 	 GET 	 undefined 	 /states/aL
+ 
+20220505	16:05:29 	 d0277967-052b-41c8-b127-2a633ca4e05c 	 GET 	 undefined 	 /states/aL
+ 
+20220505	16:05:31 	 a78cfe47-bc44-4819-9e0f-61966df2dbe9 	 GET 	 undefined 	 /states/al
+ 
+20220505	16:05:35 	 9048afc9-06de-4e07-9d5a-4a0106193ff1 	 GET 	 undefined 	 /states/AL
+ 
+20220505	16:05:43 	 64806da9-4cdf-4219-8975-fc2d310de157 	 GET 	 undefined 	 /states/al
+ 
+20220505	16:06:20 	 6c0b5b34-4ebe-4c9f-ae76-16873c42f1dc 	 GET 	 undefined 	 /states/al
+ 
+20220505	16:06:42 	 66e8dcd3-b11d-4f2c-87a4-ca1fdde1eec7 	 GET 	 undefined 	 /states/al
+ 
+20220505	16:06:47 	 41624006-0be2-41b5-bf34-6c9b91b692d5 	 GET 	 undefined 	 /states/AL
+ 
+20220505	16:13:30 	 79b43478-9766-4fca-8005-0cbc1d126847 	 GET 	 undefined 	 /employee
+ 
+20220505	16:13:33 	 ed7a4940-873c-4f13-9c60-dcaa701eff9f 	 GET 	 undefined 	 /employees
+ 
+20220505	16:24:56 	 bb16bbae-3c82-4137-9e78-0b32d622a3d1 	 GET 	 undefined 	 /states
+ 
+20220505	16:25:08 	 9099aaec-0d7d-4bff-842b-e32ff9a042e1 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:34:44 	 0f304ded-94b0-4b31-b5b8-3aba1b40d0f1 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:35:33 	 7e60bd21-b806-4a43-88e1-2255a8d225da 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:35:34 	 c28ba0d3-59fb-482f-8940-707b9d3563b4 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:35:38 	 254afec7-8a63-44ce-9a05-ef22018e105c 	 GET 	 undefined 	 /states/
+ 
+20220505	16:36:04 	 5ca208ea-0292-4423-9b80-eac08a5e72e6 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:40:24 	 a2872b07-d2c0-4675-9f7d-19d07e8dbe9c 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:40:26 	 fa7240cf-6f1a-486a-980b-20162bf0a271 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:57:44 	 441bca6e-e489-4ff2-a220-ac73d5aba27c 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:57:46 	 34d6f264-c54a-44de-a046-916d4b25255e 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:57:46 	 27883598-aeaa-4b7e-b79b-a5de7ece0c69 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:57:46 	 eee2445e-6008-4cc4-b309-c8fc00570ab8 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	16:57:59 	 266ccc9d-240c-422a-b409-d131bbc0f4e1 	 GET 	 undefined 	 /states/AL
+ 
+20220505	16:58:11 	 52041153-a8a4-499e-ada1-75643a82ad06 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	17:09:45 	 2f6e0fa1-e507-48fc-9cc0-486b2df8d9a5 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	17:09:55 	 aab97236-ef35-4e3e-91c3-1d445a71aaed 	 GET 	 undefined 	 /states/AL
+ 
+20220505	17:09:57 	 3b07c2e7-5e26-409c-abc5-7cfbea5920d4 	 GET 	 undefined 	 /states/AL
+ 
+20220505	17:09:58 	 acc7344d-addc-4774-bbfd-ce65d6658fd3 	 GET 	 undefined 	 /states/AL
+ 
+20220505	17:10:53 	 3b72481c-bc7d-4ca1-bd20-6b2d0cdcfe9b 	 GET 	 undefined 	 /states/
+ 
+20220505	17:10:58 	 fc3fe64e-69ac-49e3-ac78-fa42b8069194 	 GET 	 undefined 	 /states/AL
+ 
+20220505	17:11:08 	 87c6ee13-6610-4411-8b4f-3719d35da467 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	17:12:21 	 49d15f92-c2f7-43f5-95b8-c934bb908b78 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220505	18:13:00 	 ee3594a1-86f0-4180-9760-e6606370b73d 	 GET 	 undefined 	 /states/funfacts
+ 
+20220505	18:13:29 	 893d3e65-db56-4d60-90b6-a8aee811f7e0 	 GET 	 undefined 	 /states/funfacts/
+ 
+20220505	18:14:06 	 df354310-c6e3-4433-a7c8-c9e97625d67a 	 GET 	 undefined 	 /funfacts/
+ 
+20220505	18:44:54 	 de30be33-8bb1-4383-8480-ac98f5060542 	 GET 	 undefined 	 /funfacts/
+ 
+20220505	18:49:09 	 c1f788af-2159-4e67-bd0a-55fce621679d 	 POST 	 undefined 	 /funfacts/
+ 
+20220505	18:56:14 	 e3e534ac-f422-4028-9eae-61c132e45c82 	 POST 	 undefined 	 /funfacts/
+ 
+20220505	18:59:09 	 28544283-2925-427b-b5c0-5cecc77fe465 	 POST 	 undefined 	 /funfacts/
+ 
+20220505	19:22:29 	 cbfa24d6-7c20-4c76-bbdb-a1218a891447 	 GET 	 undefined 	 /funfacts/
+ 
+20220505	19:22:42 	 105e4d69-5a54-418b-a170-02f788c65232 	 POST 	 undefined 	 /funfacts/
+ 
+20220505	19:24:59 	 47b9cc1b-31bc-45db-9115-e5790440cd67 	 POST 	 undefined 	 /funfacts/
+ 
+20220505	19:25:11 	 8e9aa89a-1b21-4a6a-bdb4-1e72869387d4 	 GET 	 undefined 	 /funfacts/
+ 
+20220505	19:29:48 	 c63deb15-6c2e-4d81-a5d9-03078a5faf07 	 GET 	 undefined 	 /funfacts/
+ 
+20220505	19:29:55 	 b8ec2d7b-a0fb-4883-beec-d41d9239bb24 	 POST 	 undefined 	 /funfacts/
+ 
+20220505	19:30:04 	 8fd31a20-b170-47fe-8fe8-2e95417e6bfc 	 GET 	 undefined 	 /funfacts/
+ 
+20220505	19:33:14 	 24af3969-28af-43a1-9695-62d4a9d98806 	 POST 	 undefined 	 /funfacts/
+ 
+20220505	19:35:46 	 32948cad-9ca9-4768-8eac-26bccffe0a85 	 POST 	 undefined 	 /funfacts/
+ 
+20220505	19:35:56 	 45deed46-91a8-4dac-8433-4b2df4885e6b 	 GET 	 undefined 	 /funfacts/
+ 
+20220505	19:53:11 	 9654d270-913f-4ee4-b359-881a3d20b3f9 	 PUT 	 undefined 	 /funfacts/
+ 
+20220505	19:54:14 	 da395e59-fdf1-4134-9d34-7443ac4842de 	 PUT 	 undefined 	 /funfacts/
+ 
+20220505	19:54:26 	 bb1b05b9-f550-493f-b1d7-f77f72a93faa 	 GET 	 undefined 	 /funfacts/
+ 
+20220505	20:02:48 	 bf44a2a7-40aa-459b-ad57-9f00e37f410b 	 GET 	 undefined 	 /funfacts/6273fce20671e5eeaaf1058a
+ 
+20220505	20:03:52 	 f0c48fed-27de-4af0-aeaf-f012345c214b 	 GET 	 undefined 	 /funfacts/6273fce20671e5eeaaf1058a
+ 
+20220505	20:05:20 	 fd03dd71-face-4a9e-ae36-7ef908f73a1d 	 GET 	 undefined 	 /states
+ 
+20220505	20:05:27 	 394930df-07d5-4d00-9bed-4e7eb3907b17 	 GET 	 undefined 	 /states/Alabama
+ 
+20220506	13:11:33 	 0fb1f4f4-3d98-40a2-9b4a-b55e157826f9 	 GET 	 undefined 	 /
+ 
+20220506	13:11:39 	 fb013bac-fc6e-4bf9-a76f-e6df8846d980 	 GET 	 undefined 	 /states
+ 
+20220506	13:11:44 	 c0aa8c4f-a6b2-4673-9d8c-c7163b423a02 	 GET 	 undefined 	 /states/AL
+ 
+20220506	13:12:28 	 0f3a0f9a-3e80-4006-8138-53fcb018d91f 	 GET 	 undefined 	 /states/AL
+ 
+20220507	19:36:04 	 559e8880-71c1-4233-9ee0-8c33781af184 	 GET 	 undefined 	 /states/AL
+ 
+20220507	19:36:10 	 7d8448e8-5805-4756-92e4-6fc1b7c7ada0 	 GET 	 undefined 	 /states/NY
+ 
+20220508	17:06:31 	 312cd558-1cc2-4db1-9e6f-faff0476549f 	 GET 	 undefined 	 /
+ 
+20220508	17:06:42 	 5cbeea3a-37c6-4a27-a55e-ca2a4d41f424 	 GET 	 undefined 	 /
+ 
+20220508	17:07:08 	 d84c5afd-d686-4f15-84cd-d385a27e16e3 	 GET 	 undefined 	 /
+ 
+20220508	17:07:16 	 9cef26ad-e9f8-44f7-abd7-8b89165a1ad1 	 GET 	 undefined 	 /
+ 
+20220508	17:07:16 	 fbdca745-65a3-4aff-b48d-8d84b27d3690 	 GET 	 undefined 	 /css/style.css
+ 
+20220508	17:07:17 	 81dbc5a2-ba29-493c-9959-97e28b0d3374 	 GET 	 undefined 	 /favicon.ico
+ 
+20220508	17:07:26 	 c843204c-fcc0-4d30-b8a6-2ac8a4c1f8d9 	 GET 	 undefined 	 /states
+ 
+20220508	17:07:41 	 0226edcd-77a3-4542-b75e-aa963a266eee 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220508	17:07:55 	 4f30bc27-1b1e-4163-af4c-064bc42aaace 	 GET 	 undefined 	 /states/CO
+ 
+20220508	17:18:22 	 e754e608-d5d8-4e66-92d1-506489865136 	 GET 	 undefined 	 /states/CO/capital
+ 
+20220508	17:18:29 	 7e9d6206-880f-4b31-9d41-b57f0ebfd14e 	 GET 	 undefined 	 /states/NY/capital
+ 
+20220508	17:19:27 	 1777dd1e-347f-4b37-bd4e-42f10899864f 	 GET 	 undefined 	 /states/AL/capital
+ 
+20220508	17:23:36 	 6169e445-0ae6-40f5-822f-3bdd1950df78 	 GET 	 undefined 	 /states/AL/nickname
+ 
+20220508	17:23:41 	 f2bb49b1-0726-4cd3-8be4-8cb0fd557079 	 GET 	 undefined 	 /states/NY/nickname
+ 
+20220508	17:24:31 	 4f21134a-2fca-4cc8-9295-08895c914cb4 	 GET 	 undefined 	 /states/AL/nickname
+ 
+20220508	17:26:49 	 207c9e84-3ee6-45e3-a49b-4998eb9c05d8 	 GET 	 undefined 	 /states/NY/population
+ 
+20220508	17:27:01 	 1da514af-254f-492a-b3c4-eaf36986b178 	 GET 	 undefined 	 /states/AL/population
+ 
+20220508	17:31:06 	 d66312bf-0673-405f-bd35-4c023d55fc42 	 GET 	 undefined 	 /states/NY/admission
+ 
+20220508	17:31:32 	 82d02f7c-3dd0-402a-be50-08e28ba35244 	 GET 	 undefined 	 /states/AL/admission
+ 
+20220508	17:32:05 	 1a9aac32-3f52-40c7-889a-168ca4b23b2c 	 GET 	 undefined 	 /states/AL/population
+ 
+20220508	17:32:28 	 1a0d541a-900a-4a1e-9967-b34dea2fdc5b 	 GET 	 undefined 	 /states/AL/population
+ 
+20220508	17:32:29 	 f16b0b67-8be8-4abc-a57c-486f4d307094 	 GET 	 undefined 	 /states/AL/population
+ 
+20220508	17:32:44 	 1e76b75b-aaf1-4200-ba51-a63d634ed5ac 	 GET 	 undefined 	 /states/AL/population
+ 
+20220508	17:33:00 	 e84e7384-16b7-4227-97ec-091ab54a4646 	 GET 	 undefined 	 /funfacts
+ 
+20220508	17:38:23 	 204700e6-c9ef-4383-a523-238018e706df 	 GET 	 undefined 	 /KS/funfact
+ 
+20220508	17:38:40 	 111560bd-2384-4232-a4d0-19da5083144e 	 GET 	 undefined 	 /KS/funfacts
+ 
+20220508	17:38:43 	 ba2a256e-9494-40d9-a504-c21138f295c8 	 GET 	 undefined 	 /KS/
+ 
+20220508	17:38:47 	 974a8425-1055-43d5-9646-2c7ebb181d12 	 GET 	 undefined 	 /states/
+ 
+20220508	17:38:50 	 14914cba-e4d8-484c-bf75-9b03fb072143 	 GET 	 undefined 	 /states/KS
+ 
+20220508	17:38:54 	 cebbb2a6-aea4-4770-a9d5-9bfca8516e08 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:39:16 	 ecf77359-45dc-4d59-8bc2-0af84ac4cd0e 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	17:39:25 	 2ed4c25b-6205-4527-9fe8-4754fa7dfefb 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	17:39:40 	 1a6ef96f-4204-4e11-81a2-45c3ee303349 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:41:24 	 bc65efc6-e525-4474-ac72-c76a3398f0e0 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:41:43 	 50a79c33-7692-45e5-a1c8-793dd091b36e 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:41:59 	 180198f2-46cc-4779-b0fb-34de5f95c35a 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:42:08 	 b4809c52-b2dd-4032-a86e-0cadcf2d6ef6 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:45:37 	 8fb3c85c-ca64-490a-9953-7e9fe6085049 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:45:39 	 98c9ea9a-6032-4817-a6da-9cfd4f340245 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:45:42 	 43bfb703-1b91-4f8c-ab37-ffb7af7649f1 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:45:44 	 c652837f-536f-43bb-994f-2f9429f826fd 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:46:28 	 c3363860-3677-4579-9567-30e9980538eb 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:46:30 	 59b34dc6-2147-403c-8ab5-3afd2a762fe1 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	17:46:37 	 988a5121-9a4e-402b-9e0e-3c57a634203c 	 GET 	 undefined 	 /states/OK/funfact
+ 
+20220508	17:46:41 	 ae7c35bd-c339-46ad-87eb-d1ac061b104d 	 GET 	 undefined 	 /states/OK/funfact
+ 
+20220508	18:22:55 	 e0293a3a-0584-4b39-b4e7-f19e2fd13ddf 	 GET 	 undefined 	 /states/funfacts
+ 
+20220508	18:23:49 	 cda610fb-d6ae-4051-9f78-ba1a2a65f5ec 	 GET 	 undefined 	 /states/funfacts
+ 
+20220508	18:23:51 	 17ecfe06-ee3f-4bd4-ae98-402061c75c98 	 GET 	 undefined 	 /states/funfacts
+ 
+20220508	18:23:53 	 eba4c369-01da-4097-beca-0fc6c29524c1 	 GET 	 undefined 	 /states/funfacts
+ 
+20220508	18:24:14 	 e10b6b00-1426-4126-815a-8c644b8b7d46 	 GET 	 undefined 	 /funfacts
+ 
+20220508	18:24:16 	 32c3d171-aa46-42b3-9856-bf4cc6a87d95 	 GET 	 undefined 	 /funfacts
+ 
+20220508	18:24:38 	 15d57c6b-344a-4fc4-8aab-2548e8b0156f 	 GET 	 undefined 	 /states
+ 
+20220508	18:24:44 	 6a5a244b-1362-4fcd-9893-e94290dbc6a4 	 GET 	 undefined 	 /funfacts
+ 
+20220508	18:24:47 	 f0cf4452-7767-4ee1-93d6-ed4e5dd9ced7 	 GET 	 undefined 	 /funfacts
+ 
+20220508	18:24:47 	 f43c928e-3c84-4e76-9ec1-e2a44a6656c8 	 GET 	 undefined 	 /funfacts
+ 
+20220508	18:24:54 	 c025d75d-87e5-49f4-9b73-cf948dda8eaf 	 GET 	 undefined 	 /states/OK/funfact
+ 
+20220508	18:25:03 	 a5b6b252-8d51-4ccb-83db-5980244c1ee3 	 GET 	 undefined 	 /funfacts
+ 
+20220508	18:25:09 	 024d3fc4-8278-487e-94c0-a7fc047e4daf 	 GET 	 undefined 	 /funfacts
+ 
+20220508	18:25:12 	 761fb776-398c-41fe-8512-a4262556ffcd 	 GET 	 undefined 	 /funfact
+ 
+20220508	18:25:12 	 0e52d6a8-6b54-49c1-8dec-88a2838090e9 	 GET 	 undefined 	 /css/style.css
+ 
+20220508	18:25:24 	 8f683bdd-e4c7-498c-8aab-13061822e69b 	 GET 	 undefined 	 /states/funfact
+ 
+20220508	18:25:29 	 10a1760b-f8e4-45ed-b7c8-bd4b7dafeb3c 	 GET 	 undefined 	 /states/funfacts
+ 
+20220508	18:26:30 	 3765b04e-4a89-4686-aa8c-77cbacab7160 	 GET 	 undefined 	 /funfacts
+ 
+20220508	18:26:39 	 38393861-e4e9-4898-9abb-62cdad9c2d71 	 GET 	 undefined 	 /states/funfacts
+ 
+20220508	18:32:31 	 a0892197-7b78-4a0b-98da-fe98ab39ad5f 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:32:42 	 392d8e83-79f9-4b46-8bec-45981f67ba8e 	 PUT 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:33:05 	 b5d95644-95fe-4485-b9e3-d7162040f408 	 PUT 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:34:11 	 d750d105-fd3d-4336-bc9e-f21f75035b92 	 PATCH 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:36:05 	 a38adb7e-6825-4416-bbdd-74a4658f4392 	 PATCH 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:36:26 	 9b6f67fa-41e0-46f6-a184-4eadfa54a44b 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220508	18:40:02 	 8e8c496a-109b-4f81-9096-c75807d21f47 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220508	18:40:58 	 712932d9-a084-4fa6-8bfb-0a532cdc4573 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220508	18:41:00 	 d725ffa8-90fb-4c4e-92b6-16c1cc4d1fd7 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220508	18:41:36 	 d968d5fb-6836-4850-be92-134d842d36ee 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220508	18:42:49 	 4060c8e9-fed1-4b7c-916a-519acf9c7989 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220508	18:45:18 	 de922a12-a0c3-43e3-bc73-d2ffd1680f14 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:46:11 	 6faf12a5-cc2a-4b40-bf49-3c225c7b46f9 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:46:12 	 f61b451b-d6a9-4483-a2a0-51467f29c6c5 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:46:13 	 409cc7cc-109f-46d1-a47b-299ab07ef950 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:47:49 	 2433fe9f-d9d4-4d1e-9a18-9f05edc08134 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:47:50 	 1cabb35d-e270-4bdf-9513-3b0ff7141e6c 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:47:50 	 c3b4876f-f2ea-4c0f-bd80-8b420b27bc90 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:47:51 	 200e1b20-5f50-4778-b223-6ed880b9536f 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:47:55 	 55c30fd3-7c45-4452-a5e0-1b7421de5dd7 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:47:58 	 52c25d55-278f-471c-9f4d-eb48ccac79fc 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:48:02 	 8240359a-fe59-4640-be92-b105bd24ed15 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:48:14 	 10fde00e-36c9-43af-a599-51c60d259afb 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:48:19 	 8db18800-631f-4366-b9e0-2bc4936dbfdd 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:48:51 	 652ebda8-dba1-4a76-b277-c8b20d1b1cbe 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:48:52 	 6d9bd4cc-073e-4885-bdf8-0491f323aaa5 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:49:04 	 c96eb50c-ece6-48ab-9dbb-3f2517f4c9e8 	 POST 	 undefined 	 /funfacts
+ 
+20220508	18:49:05 	 0175fc94-f83c-40f8-ba31-cdbc2763e1d2 	 POST 	 undefined 	 /funfacts
+ 
+20220508	18:51:07 	 a395ee54-d624-4797-bbfb-6fc76e275091 	 GET 	 undefined 	 /states/AL/funfacts
+ 
+20220508	18:51:12 	 15dd968c-dbf3-40f4-959a-c56283a984ee 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:51:17 	 8f5ad75c-1300-482f-a9c2-2c5570d3db5b 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	18:51:55 	 714a131e-49a9-4562-b5ff-6ef935a5077f 	 POST 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:51:59 	 256c7c14-c56d-4331-b0f8-2978e865d020 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:52:25 	 ce323392-37fc-4bfd-97a3-a56a6a37b1e1 	 PATCH 	 undefined 	 /states/KS/funfact
+ 
+20220508	18:59:51 	 bbc8a256-c932-4b18-a20f-8f7f36d624ec 	 PATCH 	 undefined 	 /states/KS/funfact
+ 
+20220508	19:06:04 	 05e0ed7d-b503-492b-9fa6-06a1655b1063 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:06:22 	 458ff0a8-3ccf-4aa6-aea4-7f2bf6eb96a4 	 DELETE 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:06:29 	 e249962a-0194-4e59-ab48-0b4bd1231ea7 	 POST 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:08:27 	 3fd4a40b-c5e3-4cd6-90df-387bad7addc4 	 DELETE 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:09:50 	 511fe083-34a5-44fe-bb80-1c7a245a17d1 	 DELETE 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:11:32 	 877505e4-c797-4ee8-a7d2-9294a5aecd83 	 GET 	 undefined 	 /
+ 
+20220508	19:11:33 	 9477dd0a-00e9-40c4-a034-c28b83b72512 	 GET 	 undefined 	 /css/style.css
+ 
+20220508	19:11:42 	 8ef6635b-a981-4d4d-bbcb-d4f6941321a1 	 GET 	 undefined 	 /states/
+ 
+20220508	19:12:07 	 656d53b3-b425-4dfe-a108-3fbec0e91e34 	 GET 	 undefined 	 /states/AL
+ 
+20220508	19:12:12 	 b77b6e3b-dea3-4f0f-af36-8a9a5951f88c 	 GET 	 undefined 	 /states/
+ 
+20220508	19:12:18 	 cb8abeef-736d-4d70-95f4-8a7b1c074ffb 	 GET 	 undefined 	 /states/AK
+ 
+20220508	19:12:45 	 2d60d38d-9893-4b6e-a7b9-237f9357e384 	 GET 	 undefined 	 /states/AK/funfact
+ 
+20220508	19:14:37 	 1abad038-21f5-420d-b37f-e74e34b5786e 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	19:14:41 	 47039a2e-289c-40bf-901b-d65390a96305 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	19:15:00 	 680fbde6-46ab-4efb-bf8c-5db5882b27fd 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:15:35 	 bce8654e-a0f7-4ee9-a6e3-942c03d5bd9c 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:15:46 	 54b0dc2c-6003-4454-916c-1bd1a60797e4 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	19:15:57 	 53fb4a90-b4e6-40ea-907e-ae9f246ffdde 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:16:05 	 fc036381-0866-420c-b5d5-38280f356eb2 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220508	19:16:46 	 2a21749c-901e-4bc3-b113-55499cd27fd3 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220508	19:16:53 	 5424ee04-77c7-4dfd-aba1-df9071d129f5 	 GET 	 undefined 	 /states/OK/funfact
+ 
+20220508	19:16:57 	 23c97b5a-c84b-420b-a464-ec496fa9d946 	 GET 	 undefined 	 /states/OK/funfact
+ 
+20220508	19:17:17 	 aba00385-b6bf-4828-adcb-ca1991245a72 	 GET 	 undefined 	 /states/AL/capital
+ 
+20220508	19:17:27 	 cf174f9d-6d9e-437b-89fb-03b1a8d0cf89 	 GET 	 undefined 	 /states/NY/capital
+ 
+20220508	19:17:39 	 994ed8b7-3ae5-4246-b3c2-e1d6a8bf6202 	 GET 	 undefined 	 /states/NY/nickname
+ 
+20220508	19:17:50 	 92a698d9-b657-4d0d-83bf-133538d36561 	 GET 	 undefined 	 /states/NY/population
+ 
+20220508	19:18:00 	 0d2c3bd6-e4b6-49ae-8c90-e4f37fba8099 	 GET 	 undefined 	 /states/NY/admission
+ 
+20220508	19:18:04 	 b4019c80-e014-4642-ae8e-ddb6dc7363ab 	 GET 	 undefined 	 /states/NY/admisssion
+ 
+20220508	19:18:04 	 992e8070-1f99-471f-9960-05f8dd034522 	 GET 	 undefined 	 /states/NY/css/style.css
+ 
+20220508	19:18:08 	 23aabccc-038d-452c-b95c-887b637760e4 	 GET 	 undefined 	 /states/NY/admission
+ 
+20220510	13:19:17 	 7ee045f8-0327-4bcd-8640-828c31e1b93e 	 GET 	 undefined 	 /
+ 
+20220510	13:19:26 	 3af928ae-7a07-466f-acaa-4ef34c96ebe1 	 GET 	 undefined 	 /states/
+ 
+20220510	13:19:40 	 08c04dcc-4e45-46a1-b15f-e5515329d669 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220510	13:20:02 	 392e941a-d0a3-494f-9534-8fc496e9b96f 	 GET 	 undefined 	 /states/AL
+ 
+20220510	13:20:11 	 f99beb10-b888-4a75-bb6a-d7460e3dc8f3 	 GET 	 undefined 	 /states/AK
+ 
+20220510	13:20:23 	 7673e8dd-d759-44ec-8a1c-106d2c130e4a 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220510	13:20:26 	 989dc2ee-b7f4-442f-a61b-6025198d6d98 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220510	13:20:28 	 385f58d8-8266-4ae4-96fe-da79e7d5cbdd 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220510	13:20:44 	 bef56d62-caf1-42cd-86cc-e47e7bb96c2d 	 GET 	 undefined 	 /states/AL/funfact
+ 
+20220510	13:21:14 	 fc6177fb-e3cf-4640-97c7-7421750d4036 	 GET 	 undefined 	 /states/AL/capital
+ 
+20220510	13:21:21 	 6f16cb89-06d9-4d44-8b00-21db12bd53fc 	 GET 	 undefined 	 /states/KS/capital
+ 
+20220510	13:21:36 	 7aaa9ecc-dc7f-4581-aa64-34f4c7c07ea7 	 GET 	 undefined 	 /states/KS/nickanem
+ 
+20220510	13:21:41 	 8082d3e4-d7d5-4b26-95ce-c28913013fc0 	 GET 	 undefined 	 /states/KS/nickname
+ 
+20220510	13:21:52 	 b294b928-99eb-42a4-a7a5-d8a2d26197e8 	 GET 	 undefined 	 /states/KS/population
+ 
+20220510	13:22:07 	 0dead3c0-8834-4152-9d00-f95642858448 	 GET 	 undefined 	 /states/KS/admission
+ 
+20220510	13:22:29 	 5e6392e2-7c0b-4b44-b22c-0175241e54f4 	 GET 	 undefined 	 /states/Kansas/admission
+ 
+20220510	13:22:34 	 11d29f2d-834f-4a50-952e-a72a0ce3746e 	 GET 	 undefined 	 /states/KS/admission
+ 
+20220510	14:07:20 	 f6146471-9c02-4488-8a0a-7031ab9d18d4 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:08:39 	 4a0bf1ed-333b-47c3-ad57-8f14a6e71d9b 	 GET 	 undefined 	 /states/
+ 
+20220510	14:08:49 	 34feed8b-f6e9-4c98-8fd1-3a48fee63316 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:09:24 	 bd9a2636-6a9a-443f-8690-2271efa604ed 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:09:25 	 088e692c-9110-43cb-9ef3-2abf34467508 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:16:53 	 29576c84-a073-4765-a40d-269c30ae17e0 	 GET 	 undefined 	 /states/
+ 
+20220510	14:16:54 	 f1d32169-6852-4700-b965-d6eb633a1f80 	 GET 	 undefined 	 /states/
+ 
+20220510	14:17:01 	 d4c7d495-357b-49c6-8000-fa4cb5384588 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:17:02 	 beda3c3a-d728-4ba4-bef0-5fd7e27ebf58 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:17:02 	 9788398c-938a-4ed2-a5bf-5aa6abab823c 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:22:04 	 a6340027-41a1-41d5-bd5e-a373b68fa005 	 GET 	 undefined 	 /states/
+ 
+20220510	14:22:11 	 da5f31a7-ea45-46ed-a853-617a8f4ec709 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:46:45 	 386d16fe-8e89-4a9b-9150-71f3b9637a33 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:46:46 	 a4c103da-f503-4e53-b009-dfa7c676f9f5 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:47:20 	 6650eddc-a1ea-4315-9915-2bbac13ddbe9 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:47:21 	 d859f097-2e48-4dfa-9029-3dc813ca202f 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:48:12 	 7bc9e7ae-fefb-49ff-bf86-8e7f729ccd80 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:48:13 	 490641bf-bc51-44c8-8ead-31fcf2e452bc 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:48:14 	 cef66da5-2345-4db7-93e0-b5dde2ed5b06 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:51:31 	 3b6acb5c-41fb-4b2d-9a76-26f8242d6544 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:55:40 	 50c4b599-7538-41a6-b4d7-419cb86f9eaa 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:55:41 	 99042999-e4d4-4bee-a000-043cf643ce92 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:56:10 	 1480bd88-997e-498a-841f-a292e08f67be 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:56:45 	 89a1e270-5f26-478c-8a98-a2b9d844335e 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:56:46 	 b29bab5a-ed7d-4751-ab85-9e66c82494d9 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:57:41 	 5ae07882-8604-47fb-91f4-13591418e966 	 GET 	 undefined 	 /states
+ 
+20220510	14:58:18 	 8d177d58-4d60-4c74-9c03-4c48c31c7035 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	14:59:13 	 4cd22a53-8105-446d-9bcb-a099005804dd 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:03:43 	 05148fda-8e77-486f-96f1-bc9cb1ee9adf 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:13:19 	 5f949072-88cc-4e77-9cfb-c5bd655c5747 	 GET 	 undefined 	 /states/
+ 
+20220510	15:13:48 	 e7a5f674-259f-44c4-945b-4453e1a497c8 	 GET 	 undefined 	 /states/
+ 
+20220510	15:14:02 	 0a7a9418-16f5-4631-8553-cb3851f5378e 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:16:19 	 e8ebee69-3c68-4703-acb3-25094d0669c7 	 GET 	 undefined 	 /states/
+ 
+20220510	15:16:33 	 8dd863fe-6aad-49c9-b58b-d75b1503f456 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:16:56 	 2f153c87-7a88-4336-a3ef-ac8c9bdeade8 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:17:34 	 c34a7196-c74f-4113-946c-264abd459619 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:18:18 	 226dafb4-a3b1-4f41-b295-c0517c540b91 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:18:29 	 c8c62b55-2ac0-45f6-84f5-a6a857b437b8 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:18:42 	 3b6bcf5a-a0ce-4fcf-89e8-744c11149432 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:19:02 	 153d95d2-491a-4bd8-b3f5-a834a6b83455 	 GET 	 undefined 	 /states/
+ 
+20220510	15:19:09 	 b589d77a-3d75-43a8-a640-1b9a7ba398d9 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:19:19 	 778f33bd-f8c1-4f74-86dd-2bc822570931 	 GET 	 undefined 	 /states
+ 
+20220510	15:19:22 	 79df14b2-dedd-4f01-a190-095fcd5863aa 	 GET 	 undefined 	 /favicon.ico
+ 
+20220510	15:19:37 	 f3dfa8e0-41b3-4378-92f2-bc9fe182d607 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:20:11 	 d5d87bcc-9c75-40aa-88e7-f6b8f474b036 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:20:13 	 4157bb83-7709-467b-8d9d-00e07ce617b4 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:20:58 	 5bc57653-dc59-4d02-ab47-0a93fb94bb88 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:21:02 	 b7afa19c-2766-4277-9b13-1340c5f2c8f3 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:21:03 	 c5a36faf-55e8-496f-b2e3-7b2ff40430dd 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:21:29 	 11f39cb3-6bc5-41fa-917a-7d74098c01dc 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:21:30 	 9b29082d-0a61-4b2b-a219-359b0ed41ae2 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:21:43 	 c996430d-e2c6-4a8c-bf81-5e8fbb8977b3 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:22:37 	 4efc5750-c773-4c57-82d0-bc3ae185bc06 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:22:38 	 e24ddc56-3b00-4345-92c2-935f92360e20 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:22:50 	 0e17743b-bd13-4802-a2cb-af6a4b698b0b 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:22:51 	 e214417e-f5b2-4b58-900b-9276ada54786 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:23:39 	 2ab4e63a-14de-4349-94bb-6e1fd336fd06 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:24:10 	 99a19dc6-fe59-4ff7-82eb-af2ffcbd579a 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:25:55 	 840c0d82-f4d7-45ab-9160-dba6c76fa34a 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:26:04 	 4dd01b16-5812-4b94-a833-fad2960328be 	 GET 	 undefined 	 /states/
+ 
+20220510	15:26:12 	 4aa71922-9334-49e4-94f3-98039b87a3c3 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:26:23 	 ec11655c-882f-4ec6-a4c9-a1d3286b1262 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220510	15:26:57 	 22f7b223-0512-4f3d-8f9d-d1ca863a79f4 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220510	15:27:05 	 b395c0ad-5011-4a4b-a81a-686a0915a79f 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220510	16:39:36 	 66e66a2e-bebc-42a9-b553-3590ee10e347 	 GET 	 undefined 	 /
+ 
+20220510	16:39:41 	 06458294-71d4-42f5-b826-1a9d3972d873 	 GET 	 undefined 	 /css/style.css
+ 
+20220510	16:40:03 	 15ee64bb-2e43-44b2-9d62-e277fe9b5906 	 GET 	 undefined 	 /states/
+ 
+20220510	16:40:22 	 61b7142e-361a-41b4-a2cc-51d1c70e8f63 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220510	16:40:36 	 4e7ce3f3-9ebf-42e1-a346-d2bc01372985 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220511	12:34:26 	 6a1cca2c-7a7b-4aba-a7e5-fb12171621c3 	 GET 	 undefined 	 /
+ 
+20220511	12:36:28 	 1d3adb6d-6e7d-491c-a4e5-46ebf0fa9c93 	 GET 	 undefined 	 /states
+ 
+20220511	12:36:47 	 6984c1a7-d226-46a3-a0d1-afb7bc7c3647 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220511	12:37:04 	 db59bbd7-e036-43cc-ab93-d38867cefdb6 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220511	12:37:19 	 bc21415a-7427-4b8c-b0c8-a877c00a49e3 	 GET 	 undefined 	 /states/HI
+ 
+20220511	12:37:32 	 ca49d95c-b95f-4d98-8413-8e3498c5bf45 	 GET 	 undefined 	 /states/HI/funfacts
+ 
+20220511	12:37:37 	 06b92f2b-d7a4-4600-b4c6-6b83c3d0bbae 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220511	12:37:40 	 3c268b28-b0c5-4ec0-ace0-daa286b90352 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220511	12:37:42 	 2c0f2008-183e-44cf-81ef-efcc874cb982 	 GET 	 undefined 	 /states/KS/funfacts
+ 
+20220511	12:37:49 	 3c93d945-7e4d-4b7c-9a9d-7aa43aaeec0e 	 GET 	 undefined 	 /states/HI/funfact
+ 
+20220511	12:37:55 	 b22bbb79-d8b8-431f-b4bc-ae4c8fd3c067 	 GET 	 undefined 	 /states/KS/funfact
+ 
+20220511	12:39:04 	 54c02dc6-711b-4cc1-872a-3a8dc54c86b8 	 GET 	 undefined 	 /states/KS/capital
+ 
+20220511	12:39:14 	 6bd65dc8-d94f-49df-918b-737ad8ed1059 	 GET 	 undefined 	 /states/KS/nickname
+ 
+20220511	12:39:24 	 050fca07-4a3f-4178-b789-03d3ac1cf24f 	 GET 	 undefined 	 /states/KS/population
+ 
+20220511	12:39:35 	 577e89f1-d634-4a42-badc-0f080b1b7d8e 	 GET 	 undefined 	 /states/KS/admission
+ 
+20220511	13:07:12 	 255457cd-1c58-4e6f-9625-d9e5758ea0bb 	 GET 	 undefined 	 /states/
+ 
+20220511	13:54:46 	 ea7065e1-2256-4e0f-bea6-08893dcff7e5 	 GET 	 undefined 	 /states/
+ 
+20220511	13:55:00 	 1dfae15e-5e78-4786-a867-8eec9d6eda25 	 GET 	 undefined 	 /states/?contig=false
+ 
