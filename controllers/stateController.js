@@ -4,9 +4,11 @@ const data = {
         this.states = data
     },
 };
+
 //get all states
 const getStates = (req, res) => {
     const states = data.states;
+
     if (req.query.contig === 'false'){
         const state = states.filter((sta) => (sta.code === "AK") || (sta.code ==="HI"));
         res.json(state);

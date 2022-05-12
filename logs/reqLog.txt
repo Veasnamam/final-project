@@ -882,3 +882,23 @@
  
 20220511	13:55:00 	 1dfae15e-5e78-4786-a867-8eec9d6eda25 	 GET 	 undefined 	 /states/?contig=false
  
+20220512	17:22:24 	 7b3ea21b-f1f2-44d0-99db-75a9a3bf5f92 	 GET 	 undefined 	 /
+ 
+20220512	17:22:29 	 630523e5-0fc9-4548-9e33-4cfe72166320 	 GET 	 undefined 	 /states/
+ 
+20220512	17:22:31 	 3e50cba9-a949-4ed3-9fbc-489993010a66 	 GET 	 undefined 	 /states/
+ 
+20220512	17:23:14 	 35941284-4177-4fbd-8000-3b5266eb3ad4 	 GET 	 undefined 	 /states/
+ 
+20220512	17:24:24 	 edb0abed-fcda-42e8-bb95-a7d6212496f8 	 GET 	 undefined 	 /states/
+ 
+20220512	17:24:24 	 5ad83ffb-8e6a-45a4-9a7c-a01baf074a4e 	 GET 	 undefined 	 /states/
+ 
+20220512	17:25:25 	 dd0b016d-2231-4464-b629-60957263e353 	 GET 	 undefined 	 /states/
+ 
+20220512	17:26:37 	 a4fff15a-baba-4a84-be38-6883a4ea5dc3 	 GET 	 undefined 	 /states/?contig=true
+ 
+20220512	17:26:54 	 807e6366-563a-4601-af06-2b8ce68a3f8d 	 GET 	 undefined 	 /states/?contig=false
+ 
+20220512	17:27:13 	 efa7182c-2cb8-4843-8d97-c955bc80bbf5 	 GET 	 undefined 	 /states/HI
+ 

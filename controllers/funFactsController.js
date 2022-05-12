@@ -1,13 +1,5 @@
 const Funfacts = require('../model/Funfacts');
 
-//get all funfacts
-const getFunfacts = async (req, res) => {
-    const funfacts = await Funfacts.find();
-    if (!funfacts){
-        return res.status(400)({ funfacts: []});
-    }
-    res.json(funfacts);
-}
 
 //create fun facts
 const createNewFunFact = async(req, res) => {
@@ -74,7 +66,6 @@ const getFunFact = async (req, res) => {
 };
 
 module.exports = {
-    getFunfacts,
     createNewFunFact,
     updateFunFact,
     deleteFunfact,
